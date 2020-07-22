@@ -1,0 +1,7 @@
+2019-06-01 09:28:10.5150 | ERROR | BoombCats.Lib.Managers.CardManager | Последовательность не содержит элементов
+2019-06-01 09:42:38.6256 | ERROR | WebApiApplication.Managers.ApiCardManager | ApiPutCardsInSbros Ссылка на объект не указывает на экземпляр объекта.
+2019-06-01 20:30:43.4425 | ERROR | BoombCats.Lib.Managers.CardManager | Ссылка на объект не указывает на экземпляр объекта.
+2019-06-01 20:35:29.5361 | ERROR | BoombCats.Lib.Managers.CardManager | Ссылка на объект не указывает на экземпляр объекта.
+2019-06-01 20:37:29.8180 | ERROR | BoombCats.Lib.Managers.CardManager | Ссылка на объект не указывает на экземпляр объекта.
+2019-06-01 20:38:19.2525 | ERROR | BoombCats.Lib.Managers.CardManager | Ссылка на объект не указывает на экземпляр объекта.
+2019-06-01 20:39:24.6973 | ERROR | BoombCats.Lib.Managers.CardManager | Ссылка на объект не указывает на экземпляр объекта.

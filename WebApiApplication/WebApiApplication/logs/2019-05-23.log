@@ -1,0 +1,4 @@
+2019-05-23 22:30:25.2195 | ERROR | WebApiApplication.Managers.ApiCardManager | PutCardsInSbros Значение не может быть неопределенным.
+Имя параметра: source
+2019-05-23 22:30:38.9826 | ERROR | WebApiApplication.Managers.ApiCardManager | PutCardsInSbros Значение не может быть неопределенным.
+Имя параметра: source
